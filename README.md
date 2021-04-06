@@ -7,5 +7,5 @@
 `streamlit run main.py`
 
 ## Demo
-[Demo](images/demo.gif)
+![Demo](images/demo.gif)
 
